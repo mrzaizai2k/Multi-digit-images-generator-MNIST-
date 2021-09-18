@@ -1,4 +1,6 @@
-# Multi_digit-images-generator (MNIST)
+# Multi-digit images generator (MNIST)
+Here I created a multi-digit generator which generate images of number based on MNIST dataset with Keras and OpenCV
+
 I have done a notebook for detail information on [KAGGLE](https://www.kaggle.com/bomaich/multi-digit-images-generate-mnist)
 
 You can see the result here:
